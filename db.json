@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "ram",
+      "mobile": "9876543210",
+      "email": "ram@gmail.com",
+      "salary": 45000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
